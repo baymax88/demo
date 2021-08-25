@@ -1,14 +1,73 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "events": {
+    "8/8/2021": [
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNzAzNjMzNjE5Mjk3MjQ4MTcw",
+        "title": "Valentine's Day Party",
+        "status": "invite_scheduled",
+        "startAt": "2021-08-08T14:30:00Z",
+        "endAt": "2021-08-08T16:30:00Z"
+      },
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNzAyOTI1NTU2NTUwNjc3NDEy",
+        "title": "Valentine's Day Party",
+        "status": "invite_scheduled",
+        "startAt": "2021-08-08T14:30:00Z",
+        "endAt": "2021-08-08T16:30:00Z"
+      },
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNzAwMjczMzk1NTc5NjcwNjA4",
+        "title": "Valentine's Day Party",
+        "status": "published",
+        "startAt": "2021-08-08T14:30:00Z",
+        "endAt": "2021-08-08T16:30:00Z"
+      },
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNzA0NDQyMjA5MTM3NjM1MTYx",
+        "title": "Valentine's Day Party",
+        "status": "published",
+        "startAt": "2021-08-08T14:30:00Z",
+        "endAt": "2021-08-08T16:30:00Z"
+      },
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNzAwOTgzNTk3MzMwNTA2OTQ3",
+        "title": "Valentine's Day Party",
+        "status": "invite_scheduled",
+        "startAt": "2021-08-08T14:30:00Z",
+        "endAt": "2021-08-08T16:30:00Z"
+      }
+    ],
+    "8/11/2021": [
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNzAxMjg3NTMwNTIyMTcxODI3",
+        "title": "Valentine's Day Party Valentine's Day Party",
+        "status": "invite_scheduled",
+        "startAt": "2021-08-11T14:30:00Z",
+        "endAt": "2021-08-11T16:30:00Z"
+      }
+    ],
+    "8/28/2021": [
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNjk4NjY1MzMyNzc1MzI5NDIy",
+        "title": "Valentine's Day Party",
+        "status": "invite_scheduled",
+        "startAt": "2021-08-28T14:30:00Z",
+        "endAt": "2021-08-28T16:30:00Z"
+      },
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNjk5MDc5NzAzNzI5NTg5NTI1",
+        "title": "Valentine's Day Party",
+        "status": "published",
+        "startAt": "2021-08-28T14:30:00Z",
+        "endAt": "2021-08-28T16:30:00Z"
+      },
+      {
+        "id": "TWt0Zzo6SHlldmVudC0xNzAxNjAyMTc4MjYzMjgzNjY2",
+        "title": "Valentine's Day Party",
+        "status": "invite_scheduled",
+        "startAt": "2021-08-28T14:30:00Z",
+        "endAt": "2021-08-28T16:30:00Z"
+      }
+    ]
   }
 }
